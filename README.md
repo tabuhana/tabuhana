@@ -46,6 +46,15 @@ My name is Nathan, I'm a developer based in California. I build full-stack appli
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
+<hr />
+<p align="center">
+<img alt="HTML/CSS" src="https://user-images.githubusercontent.com/39642290/169638568-21dffd5b-8707-43e7-a60a-6dfc53543638.png">
+<img alt="JavaScript/JQuery" src="https://user-images.githubusercontent.com/39642290/169638569-6c4e5c2e-2bc3-4567-84eb-9c1df6541fdd.png">
+<img alt="SQL/noSQL Databases" src="https://user-images.githubusercontent.com/39642290/169638557-53057cdf-69ed-4c11-8939-029fe136d7cb.png">
+<img alt="React.js" src="https://user-images.githubusercontent.com/39642290/169638552-62013ff2-53bc-455f-be57-cad1e2f3dd31.png">
+<img alt="Node.js/Express" src="https://user-images.githubusercontent.com/39642290/169638570-9e74b1d2-0e56-48ea-aed8-b36412abd50c.png">
+</p>
+
 <details>
    <summary>𝗖𝗼𝗺𝗺𝗶𝘁 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀</summary>
    <p>I try to use a style of <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">semmantic commit messages</a> for all of my commits in my repo</p>
@@ -63,4 +72,4 @@ My name is Nathan, I'm a developer based in California. I build full-stack appli
       <li><code>chore:</code> all changes to the repository that do not fit into any of the above categories</li>
    </ul>
       e.g. <code>feat(components): add new prop to the avatar component</code>
-      
+</details>
