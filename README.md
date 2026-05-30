@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=355140">
 
 ## 👋 Hey There
-My name is Nathan, I'm a developer based in California. I build full-stack applications with React, Next.js, and TypeScript. I'm passionate about programming. Currently learning more about Linux (running Arch + Neovim + tmux btw), C++, Python, and going deeper into the JavaScript ecosystem. I like working on projects that let me explore new technologies and challenge me with different problems.
+My name is Nathan. I'm a hobby programmer. I build full-stack applications with React, Next.js, and TypeScript. I'm passionate about programming. Currently learning more about Linux (running Arch + Neovim + tmux btw), C++, Python, and going deeper into the JavaScript ecosystem. I like working on projects that let me explore new technologies and challenge me with different problems.
 
 ## 🛠️ Some of the tools, libraries, technologies, and frameworks I've worked with:
 
